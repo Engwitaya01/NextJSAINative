@@ -16,7 +16,7 @@
 
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
-import { AuthBranding } from "@/app/(auth)/auth/auth-branding";
+import { AuthBranding } from "@/app/(auth)/auth/signin/auth-branding";
 
 export default function AuthLayout({
   children,
