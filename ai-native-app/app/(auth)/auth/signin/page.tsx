@@ -1,6 +1,7 @@
 //import metadata from "./metadata";
 import type { Metadata } from "next";
-import LoginForm from "./LoginForm";
+// import LoginForm from "./LoginForm";
+import LoginForm from "@/app/(auth)/auth/signin/LoginForm";
 
 export const metadata: Metadata = {
   title: "Sign In",
